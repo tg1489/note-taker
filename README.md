@@ -54,6 +54,7 @@ If you would like to contribute to the Note-Taker App, please follow these steps
 
 If you have any questions about this program or would like to report a bug, please contact the author through GitHub:
 [GitHub](https://github.com/tg1489/)
+
 Alternatively, you may reach out and email me down below if you have any additional questions about the program.
 [Email](mailto:tonyguarino1489@gmail.com)
 
